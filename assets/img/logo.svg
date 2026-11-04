@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Logo SIAKD">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f6fed"/>
+      <stop offset="1" stop-color="#0b213b"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#g)"/>
+  <path d="M32 14 10 24l22 10 22-10-22-10Zm-14 16v9c0 5 6 9 14 9s14-4 14-9v-9l-14 6-14-6Z" fill="#fff"/>
+  <path d="M54 25v13" stroke="#8dbbff" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="54" cy="41" r="3" fill="#8dbbff"/>
+</svg>
